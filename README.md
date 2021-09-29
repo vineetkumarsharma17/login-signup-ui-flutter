@@ -2,6 +2,8 @@
 
 A new Flutter project.
 <img src="https://github.com/vineetkumarsharma17/login-signup-ui-flutter/blob/master/flutter_01.png" width="200"/>
+<img src="https://github.com/vineetkumarsharma17/login-signup-ui-flutter/blob/master/flutter_02.png" width="200"/>
+<img src="https://github.com/vineetkumarsharma17/login-signup-ui-flutter/blob/master/flutter_03.png" width="200"/>
 
 
 ## Getting Started
