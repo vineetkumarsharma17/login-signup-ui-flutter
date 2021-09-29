@@ -41,7 +41,7 @@ class _SignUpState extends State<SignUp> {
             )),
             Container(
               decoration: BoxDecoration(
-                  color: Colors.white70,
+                  color: Colors.white,
                   borderRadius: BorderRadius.only(topLeft: Radius.circular(40),
                       topRight:  Radius.circular(40))
               ),
